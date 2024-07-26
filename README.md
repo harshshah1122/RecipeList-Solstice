@@ -1,4 +1,4 @@
-# RecipeList-Solstice
+# Recipe List - Solstice by APEERS Hackathon
 
 ## Overview
 
