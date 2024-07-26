@@ -60,8 +60,8 @@ def clear_placeholder(event):
 def recipes(input_list, index, title):
     global recipe_current_index
     if len(input_list) >= 2:
-        api_id = "7a51ad65"
-        api_key = "4326e6b4ad8c8be6e9c585476b593620"
+        api_id = "19b9a671"
+        api_key = "791a8b3a150d399501920fc2fc407f7c"
         new_window = tk.Toplevel()
         new_window.geometry("400x600")
         new_window.title(title)
