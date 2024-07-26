@@ -38,15 +38,15 @@ This Python application is a Tkinter-based GUI for managing a list of recipes an
             Navigate to the "API Keys" section and generate a new key.
             Update the API_ID and API_KEY variables in the code with your new key.
 
-## Running the Application
+**Running the Application**
 To run the application, use:  python recipe-list.py
 
-Releases
+## Releases
 
     Version 1.0: Download the latest release
 
     The release includes the compiled application for macOS. Download and unzip the release, and open the .app file to start the application.
 
-Contact
+**Contact**
 
 For any questions or issues, please contact mail.hshah10@gmail.com.
