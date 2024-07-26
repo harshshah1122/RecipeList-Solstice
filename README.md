@@ -28,15 +28,26 @@ This Python application is a Tkinter-based GUI for managing a list of recipes an
 
    ```sh
    pip install -r requirements.txt
+    mportant Note on API Key:
+        Demo API Key: The API key included in the code is for demonstration purposes during this hackathon. It is intended to be used only within the scope of this event.
+        Overwhelmed Key: If the provided API key becomes overwhelmed or ceases to function due to high usage, you may need to create a new API key on Edamam. Follow these steps to obtain a new key:
+            Go to the Edamam Developer Portal.
+            Sign in or create a new account if you don’t have one.
+            Navigate to the "API Keys" section and generate a new key.
+            Update the API_ID and API_KEY variables in the code with your new key.
 
-Important Note on API Key:
+Running the Application
 
-    Demo API Key: The API key included in the code is for demonstration purposes during this hackathon. It is intended to be used only within the scope of this event.
-    Overwhelmed Key: If the provided API key becomes overwhelmed or ceases to function due to high usage, you may need to create a new API key on Edamam. Follow these steps to obtain a new key:
-        Go to the Edamam Developer Portal.
-        Sign in or create a new account if you don’t have one.
-        Navigate to the "API Keys" section and generate a new key.
-        Update the API_ID and API_KEY variables in the code with your new key.
+To run the application, use:
 
-Contact:
-For any questions or issues, please contact mail.hshah10@gmail.com
+python recipe-list.py
+
+Releases
+
+    Version 1.0: Download the latest release
+
+    The release includes the compiled application for macOS. Download and unzip the release, and open the .app file to start the application.
+
+Contact
+
+For any questions or issues, please contact mail.hshah10@gmail.com.
