@@ -28,9 +28,11 @@ This Python application is a Tkinter-based GUI for managing a list of recipes an
 
    ```sh
    pip install -r requirements.txt
-    mportant Note on API Key:
-        Demo API Key: The API key included in the code is for demonstration purposes during this hackathon. It is intended to be used only within the scope of this event.
-        Overwhelmed Key: If the provided API key becomes overwhelmed or ceases to function due to high usage, you may need to create a new API key on Edamam. Follow these steps to obtain a new key:
+
+**Important Note on API Key:**
+1. Demo API Key: The API key included in the code is for demonstration purposes during this hackathon. It is intended to be used only within the scope of this event.
+   
+2. Overwhelmed Key: If the provided API key becomes overwhelmed or ceases to function due to high usage, you may need to create a new API key on Edamam. Follow these steps to obtain a new key:
             Go to the Edamam Developer Portal.
             Sign in or create a new account if you don’t have one.
             Navigate to the "API Keys" section and generate a new key.
