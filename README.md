@@ -43,9 +43,8 @@ To run the application, use:  python recipe-list.py
 
 ## Releases
 
-    Version 1.0: Download the latest release
-
-    The release includes the compiled application for macOS. Download and unzip the release, and open the .app file to start the application.
+Version 1.0: Download the latest release
+The release includes the compiled application for macOS. Download and unzip the release, and open the .app file to start the application.
 
 **Contact**
 
