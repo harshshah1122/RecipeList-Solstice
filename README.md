@@ -38,9 +38,7 @@ This Python application is a Tkinter-based GUI for managing a list of recipes an
 
 Running the Application
 
-To run the application, use:
-
-python recipe-list.py
+   To run the application, use:  python recipe-list.py
 
 Releases
 
